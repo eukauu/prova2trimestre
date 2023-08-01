@@ -1,0 +1,24 @@
+/*SELETOR UNIVERSAL*/
+*{margin: 0px;
+   padding: 0px;
+}
+/*CORPO DA PÁGINA*/
+body{
+ background-color: rgb(97, 255, 255);
+color: rgb(151, 250, 250);
+display: flex;
+padding: 30px;
+font-size: 24px;
+justify-content: space-around;
+}
+
+.cabecalho-imagem{
+  width: 150px;
+  height: 150px;
+}
+
+.cabecalho-item{
+ display: inline-block;
+padding: 0 100px;
+text-decoration: underline;
+}
